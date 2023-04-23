@@ -87,23 +87,19 @@ const Main = () => {
                 data-wow-duration="1000ms"
                 data-wow-delay="700ms"
               >
-                The Nexus is a city in the open verse, built with software,
-                determination, and love. The Nexus serves as a virtual downtown,
-                a global commons, a connection point leveraging technology to
-                bring us closer to the world we want, and the web we want.
+                The Nexus is about interconnection. We are passionate about the
+                software we build to enable a more connected world. 
               </p>
               <p
                 className="pe-5 wow fadeInUp animated"
                 data-wow-duration="1000ms"
                 data-wow-delay="800ms"
               >
-                The Nexus is about interconnection. We are passionate about the 
-                software we build to enable a more connected world. We imagine a place for writers, poets, actors,
-                artists, data scientists, software engineers, philosophers,
-                psychologists, people from all walks of life– to gather together
-                and build something beautiful and worthy of collective effort.
-                We believe we can build something unique,
-                community-owned, and open to all.
+                We imagine a place for writers, poets, actors, artists, data scientists,
+                software engineers, philosophers, psychologists, people from all
+                walks of life to gather together and build something beautiful
+                and worthy of collective effort. We believe we can build
+                something unique, community-owned, and open to all.
               </p>
               <ul
                 className="pe-5 list-unstyled wow fadeInUp animated"
@@ -151,9 +147,10 @@ const Main = () => {
                 data-wow-duration="1000ms"
                 data-wow-delay="600ms"
               >
-                The Nexus is the connection point, the link between worlds. We
-                imagine The Nexus as trans-dimensional, operating on many
-                platforms and on adjacent hosted layers.
+                Nexus is a city in the open verse, built with software,
+                determination, and love. The Nexus serves as a virtual downtown,
+                a global commons, a connection point leveraging technology to
+                bring us closer to the world we want, and the web we want.
               </p>
             </div>
           </div>
@@ -363,8 +360,7 @@ const Main = () => {
                   agents to populate the city. Each one has a unique personality
                   and is capable of open-ended conversation. The AI agents can
                   build relationships with each other, form meta-narratives and
-                  keep the world rich and interesting for all. There’s always something to do and someone
-                  to talk to in The Nexus.
+                  keep the world rich and interesting for all.
                 </p>
                 <button target="#" className="common-button">
                   get now
