@@ -39,15 +39,15 @@ const Main = () => {
             <div className="col-lg-6 mt-4 mt-lg-0">
               <h1 className="author mb-2 mb-lg-4 wow fadeInUp animated" data-wow-duration="1000ms" data-wow-delay="600ms">About Us</h1>
               <p className="pe-5 wow fadeInUp animated" data-wow-duration="1000ms" data-wow-delay="700ms">
-              Made on the XREngine we are building The Nexus, a downtown district in a massive space station. A collaborative universe we can build together. The Nexus is an entertainment hub in the Metaverse. Located in Freeside Station, high above Earth, The Nexus features a world-class venue, shopping, galleries, night life, games, events and transportation to other worlds. The Nexus is readily available from the browser but can be connected to from any participating application.
+              The Nexus is a city in the open verse, built with software, determination, and love. The Nexus serves as a virtual downtown, a global commons, a connection point leveraging technology to bring us closer to the world we want, and the web we want. The Nexus is about interconnection.
               </p>
               <p className="pe-5 wow fadeInUp animated" data-wow-duration="1000ms" data-wow-delay="800ms">
-              The Nexus is inspired and conceptualized as an utopic future of our new spaces.  The possibility to use the metaverse as an experiment to design new cities.
+              We are passionate about the software we build to enable a more connected world, but we ourselves still feel disconnected. The Nexus is the connection point, the link between worlds. We imagine a place for writers, poets, actors, artists, data scientists, software engineers, philosophers, psychologists– people from all walks of life– to gather together and build something beautiful and worthy of collective effort. We have experience building collaborative networks, maintaining open source projects. We know that getting a lot of people to coordinate on a large-scale, idealistic project is difficult but invaluable work. It is deeply important to us that our efforts be a positive force, pushing humanity to solve the problems of our age. We believe we can build something unique, community-owned, and open to all.
               </p>
               <ul className="pe-5 list-unstyled wow fadeInUp animated" data-wow-duration="1000ms" data-wow-delay="900ms">
-                <li><FaCheckCircle />Playful, Informative, Immersive, Friendly.</li>
-                <li><FaCheckCircle />Information and data awareness.</li>
-                <li><FaCheckCircle />Positive feelings related to technology</li>
+                <li><FaCheckCircle />Community Owned</li>
+                <li><FaCheckCircle />Open Source</li>
+                <li><FaCheckCircle />Interconnected</li>
               </ul>
             </div>
           </div>
@@ -60,7 +60,7 @@ const Main = () => {
             <div className="col-md-12">
               <h6 className="small-text text-shadow text-white wow fadeInUp animated" data-wow-duration="1000ms" data-wow-delay="600ms">What To Do In</h6>
               <h1 className="text-shadow mb-2 mb-lg-4 text-white wow fadeInUp animated" data-wow-duration="1000ms" data-wow-delay="600ms">The Metaverse</h1>
-              <p className=" tagline text-white wow fadeInUp animated" data-wow-duration="1000ms" data-wow-delay="600ms">An end-to-end framework for the web, built on popular Javascript frameworks. Scalable multiplayer infrastructure with voice, video, expressive avatars a visual editor and portals between worlds. Build your own games and social experiences and link them together.</p>
+              <p className=" tagline text-white wow fadeInUp animated" data-wow-duration="1000ms" data-wow-delay="600ms">The Nexus is the connection point, the link between worlds. We imagine The Nexus as trans-dimensional, operating on many platforms and on adjacent hosted layers.</p>
             </div>
             </div>
             <div className="row mt-5">
@@ -74,14 +74,14 @@ const Main = () => {
               </li>
               <li className="wow fadeInLeft animated" data-wow-duration="1000ms" data-wow-delay="600ms">
                 <div className="work-list hidden">
-                  <h3>Avatars</h3>
-                  <p className="mb-0">In the metaverse everyone has an avatar, you can either make your own avatar or select from a catalogue.</p>
+                  <h3>Games</h3>
+                  <p className="mb-0">Build your own games and social experiences and link them together</p>
                 </div>
               </li>
               <li className="wow fadeInLeft animated" data-wow-duration="1000ms" data-wow-delay="600ms">
                 <div className="work-list">
-                  <h3>NFT’s</h3>
-                  <p className="mb-0">In the metaverse everything you own will be a digital asset, you can buy, sell, or trade them as NFTs in the marketplace.</p>
+                  <h3>Avatars</h3>
+                  <p className="mb-0">Scalable multiplayer infrastructure with voice, video, expressive avatars a visual editor and portals between worlds.</p>
                 </div>
               </li>
               <li className="wow fadeInLeft animated" data-wow-duration="1000ms" data-wow-delay="600ms">
@@ -112,8 +112,8 @@ const Main = () => {
             <ul className="list-unstyled">
               <li className="wow fadeInRight animated" data-wow-duration="1000ms" data-wow-delay="600ms">
                 <div className="work-list hidden">
-                  <h3>Spaces</h3>
-                  <p className="mb-0">In the metaverse you can generate spaces or select from a catalogue: Gallery, Retail, Auditorium, Club, or Room.</p>
+                  <h3>Open Source</h3>
+                  <p className="mb-0">An end-to-end framework for the web, built on popular Javascript frameworks.</p>
                 </div>
               </li>
               <li className="wow fadeInRight animated" data-wow-duration="1000ms" data-wow-delay="600ms">
@@ -156,8 +156,8 @@ are not replicas of real spaces, or cartoonish environments, they are optimized 
                   <div className="VR-space-icon">
                   <GalleryIcon />
                   </div>
-                  <h3>Gallery</h3>
-                  <p className="mb-0">Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, Lorem Ipsum is simply dummy text of Lorem Ipsum is simply...</p>
+                  <h3>AI Agents</h3>
+                  <p className="mb-0">We built a software stack to create interesting, story-driven agents to populate the city. Each one has a unique personality and is capable of open-ended conversation. The AI agents can build relationships with each other, form meta-narratives and keep the world rich and interesting for all. Even when it’s quiet and nobody’s around, there’s something to do and someone to talk to in The Nexus.</p>
                   <button target="#" className="common-button">get now</button>
                 </div>
             </div>
@@ -166,8 +166,8 @@ are not replicas of real spaces, or cartoonish environments, they are optimized 
                   <div className="VR-space-icon">
                   <ClubIcon />
                   </div>
-                  <h3>Club</h3>
-                  <p className="mb-0">Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, Lorem Ipsum is simply dummy text of Lorem Ipsum is simply...</p>
+                  <h3>World Engine</h3>
+                  <p className="mb-0">We built our own browser-based 3D world engine to power projects like The Nexus. The engine runs on every platform, in the browser and native, including VR and mobile. publicly available game engine to include full MMO multiplayer deployment at scale, built on React, three.js and many other open source frameworks and libraries.</p>
                   <button target="#" className="common-button">get now</button>
                 </div>
             </div>
@@ -176,8 +176,8 @@ are not replicas of real spaces, or cartoonish environments, they are optimized 
                   <div className="VR-space-icon">
                   <RetailIcon />
                   </div>
-                  <h3>Retail</h3>
-                  <p className="mb-0">Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, Lorem Ipsum is simply dummy text of Lorem Ipsum is simply...</p>
+                  <h3>Interoperable</h3>
+                  <p className="mb-0">Interoperability between different worlds is critical for the success of an open metaverse. We need specifications for avatars, wearables and equipment that are adopted across different platforms so that users can seamlessly bring their stuff anywhere and creators can maximize the value and reach of the assets they create.</p>
                   <button target="#" className="common-button">get now</button>
                 </div>
             </div>
